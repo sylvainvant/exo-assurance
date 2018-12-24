@@ -1,0 +1,6 @@
+c:\users\svantieghem\documents\visual studio 2012\Projects\exo assurance\exo assurance\bin\Debug\exo assurance.exe.config
+c:\users\svantieghem\documents\visual studio 2012\Projects\exo assurance\exo assurance\obj\Debug\exo assurance.csprojResolveAssemblyReference.cache
+c:\users\svantieghem\documents\visual studio 2012\Projects\exo assurance\exo assurance\bin\Debug\exo assurance.exe
+c:\users\svantieghem\documents\visual studio 2012\Projects\exo assurance\exo assurance\bin\Debug\exo assurance.pdb
+c:\users\svantieghem\documents\visual studio 2012\Projects\exo assurance\exo assurance\obj\Debug\exo assurance.exe
+c:\users\svantieghem\documents\visual studio 2012\Projects\exo assurance\exo assurance\obj\Debug\exo assurance.pdb
