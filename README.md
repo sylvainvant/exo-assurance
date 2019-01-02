@@ -5,5 +5,5 @@ Aller dans le dossier
 exo-assurance/exo assurance/bin/Debug/exo assurance.exe     
 pour executer     
 Aller dans le dossier     
-     
+exo-assurance/exo assurance/Program.cs           
 Pour voir le programme
